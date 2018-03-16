@@ -1,0 +1,94 @@
+body{
+    max-width: 50%;
+    width:50%;
+    padding: 40px;
+    margin: 50px auto;
+    font-family: 'Arial', sans-serif;
+  
+}
+
+.container{
+    max-width: 45rem;
+    width:45rem;
+    margin: auto;
+    font-family: 'Arial', sans-serif;
+    text-align: center;
+}
+
+.masthead{
+    color: white;
+}
+
+h1{
+    color: white;
+    font-family: 'Arial', sans-serif;
+    margin-bottom: 50px;
+    margin-top: 20px;
+}
+
+.solid{
+    max-width: 45rem;
+    width:45rem;
+    padding: 60px; 
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(../img/solid.png);
+    background-color: #D6D5D5;
+    background-position: center;
+   
+}
+
+img{
+    height: 147px;
+    width: 147px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+
+[type="text"] {
+    width: 100%;
+    text-align: center;
+    font-family: 'Arial', sans-serif;
+    padding: 15px;
+    margin-bottom: 10px;
+}
+
+button {
+    width: 100%;
+    min-width: 200px;
+    font-family: 'Arial', sans-serif;
+    margin-bottom: 20px;
+    margin-top: 15px;
+    padding: 15px;
+    background-color: #D6D5D5;
+    color: #000000;
+}
+
+p{
+    font-family: 'Arial', sans-serif;
+    font-size: 20px;
+    color: #D6D5D5;
+
+}
+
+ul{
+    text-align: center;
+}
+
+
+ul li {
+   
+    text-align: left;
+    font-family: 'Arial', sans-serif;
+    color: #D6D5D5;
+    
+}
+
+
+.fa {
+    color: white;
+    padding: 24px;
+    width: 50px;
+    margin: 5px
+}
